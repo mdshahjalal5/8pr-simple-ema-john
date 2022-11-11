@@ -1,0 +1,8 @@
+.shop{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+.products-container{
+    display: grid;
+    grid-template-columns:repeat(2, 1fr);
+}
